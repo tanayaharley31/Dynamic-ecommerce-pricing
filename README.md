@@ -60,11 +60,4 @@ The goal is to **simulate how online retailers (like Amazon, Flipkart, or Uber) 
 * **Aditi Katale**
 * **Dhanraj Nandurkar**
 
----
-
-## 🚀 Future Scope 
-
-* Integrating with **recommendation engines** for personalized discounts.
-* Building **AI agents** that adapt pricing in real time (like Uber surge pricing).
-* Extending project to other datasets (e.g., Amazon/Flipkart data) for wider generalization.
 
