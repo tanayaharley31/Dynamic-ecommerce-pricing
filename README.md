@@ -1,5 +1,4 @@
-# dynamic-ecommerce-pricing
-Dynamic E-commerce Pricing using Machine Learning on the Olist Brazilian E-commerce Dataset Building predictive pricing models and analyzing customer/market behavior to simulate real-world retail pricing strategies.
+
 
 # Dynamic E-commerce Pricing using Machine Learning
 
@@ -58,32 +57,14 @@ The goal is to **simulate how online retailers (like Amazon, Flipkart, or Uber) 
 ## 👩‍💻 Team Members
 
 * **Tanaya Harley**
-* [Add group member names here]
+* **Aditi Katale**
+* **Dhanraj Nandurkar**
 
 ---
 
-## 🚀 Future Scope (Professional Pitch)
+## 🚀 Future Scope 
 
 * Integrating with **recommendation engines** for personalized discounts.
 * Building **AI agents** that adapt pricing in real time (like Uber surge pricing).
 * Extending project to other datasets (e.g., Amazon/Flipkart data) for wider generalization.
 
----
-
-## 📎 Repository Structure
-
-```
-├── data/           # Dataset (link or placeholder instructions)
-├── notebooks/      # Jupyter Notebooks for EDA & modeling
-├── src/            # Source code for data processing & models
-├── reports/        # PDF reports, visualizations
-├── README.md       # Project overview
-```
-
----
-
-## 📈 Learning Outcomes
-
-* Applied **data science and machine learning** to a real-world business challenge.
-* Understood the **business impact of pricing strategies** in e-commerce.
-* Strengthened technical skills in **EDA, ML modeling, and storytelling with data**.
